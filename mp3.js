@@ -25,11 +25,11 @@ function mDeLaCruzCristopherMP3() {
         // VARIABLE DATA ASSIGNMENTS
         // Assign the values to the variables created in the DECLARATION SECTION
         // Input
-            var strCDFirstName = "Cristopher";
-            var strCDLastName = "De La Cruz";
-            var strCDMiddleName = "Isaac";
-            var strCDFullName = "Cristopher Isaac De La Cruz";
-            var blnCDGender = 0;
+            strCDFirstName = "Cristopher";
+            strCDLastName = "De La Cruz";
+            strCDMiddleName = "Isaac";
+            strCDFullName = "Cristopher Isaac De La Cruz";
+            blnCDGender = 0;
         // Processing
             numCDAge = mCDCurrentYear - 1999;
             strCDAge = numCDAge.toString();
